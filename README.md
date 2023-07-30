@@ -4,23 +4,3 @@ Usage
 Clone this repository to your local machine.
 
 `git clone https://github.com/Marconoyet/mail-template.git`
-
-`____companySite____`
-`____logoURL____`
-`____altLogo____`
-`____bannerSiteLink____`
-`____bannerImageLink____`
-`____altBanner____`
-`____mainTitle____`
-`____date____`
-`___recieverName____`
-`____bodyText____`
-`____listHeader____`
-`____btnLink____`
-`____btnLabel____`
-`____companyName____`
-`____facebookLink____`
-`____twitterLink____`
-`____instagramLink____`
-`____copyrightText____`
-`____copyrightYear____`
