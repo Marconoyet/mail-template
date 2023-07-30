@@ -45,8 +45,6 @@ https://github.com/FlowTech-House/mail-template-deluge
 
 - you can go to folder of display in repository and see how it look in mobile and desktop.
 
-Feel free to contribute to this repository by submitting pull requests or suggesting improvements. Happy mailing! 📧
-
 # Contact
 
 If you have any questions or need further assistance, feel free to contact me:
@@ -55,3 +53,6 @@ If you have any questions or need further assistance, feel free to contact me:
 - E-mail: ahmed123mah@yahoo.com
 - GitHub: https://github.com/Marconoyet
 - Linkedin: https://www.linkedin.com/in/marconoyet/
+
+Feel free to contribute to this repository by submitting pull requests or suggesting improvements. Happy mailing! 📧
+
