@@ -15,7 +15,7 @@ git clone https://github.com/Marconoyet/mail-template.git
   - the **first** one is example of using template containes virtual email from mercedes that you win **Class C** car and this example of how to use mail template.
 
   - the **second** one is the template that you will use to add your own information when sending mail and contain below Placeholders that you will replace with your data using your programming language that you want to send mail with.
-    ` __companySite__`
+    `__companySite__`
     `__logoURL__ `
     `__altLogo__`
     `__bannerSiteLink__`
@@ -26,6 +26,7 @@ git clone https://github.com/Marconoyet/mail-template.git
     `__recieverName__`
     `__bodyText__`
     `__listHeader__`
+    `__listItems__`
     `__btnLink__`
     `__btnLabel__`
     `__companyName__`
